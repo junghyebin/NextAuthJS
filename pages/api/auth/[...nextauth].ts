@@ -37,5 +37,5 @@ export default NextAuth({
     //          session.user.test = userOrToken.test;
     //          return session
     //        }
-    //  }
+    }
 })
